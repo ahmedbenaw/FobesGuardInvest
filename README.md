@@ -1,10 +1,10 @@
 # FobesGuardInvest
  Fraud Detection Dashboard will provide VC and Angel Investors with a comprehensive and data-driven tool to evaluate the trustworthiness of founders. 
 # Disclaimer:
-**This product documentation manual and all included code pieces are subject to review and/or optimization by contributors.
-**The Product back story was a result of a "satirical joke" that happened to be proven by research and the discussion happened between me a Data Scientist friend of mine and a VC GP.
-** While the product itself and that repo fall under Boost Software license 1.0
-**Invitations for contributions are open for  whoever wanna join for the love of a good "Data Meme"!
+**This product documentation manual and all included code pieces are subject to contributors' review and/or optimization.**
+**The Product back story resulted from a "satirical joke" that was proven by research and the discussion between me, a Data Scientist friend of mine, and a VC GP.**
+**While the product itself and that repo fall under Boost Software license 1.0.**
+**Invitations for contributions are open for  whoever wanna join for the love of a good "Data Meme"!**
  
 # Product Requirments (PRD)
 
