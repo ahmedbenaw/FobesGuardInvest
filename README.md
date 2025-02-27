@@ -1,6 +1,5 @@
 # FobesGuardInvest
-Oh sure, because what every VC and Angel Investor really needs is yet another flashy dashboard to help them blindly trust every founder they meet. Who needs critical thinking when you have a "comprehensive" tool to do all the work for you?
-So why don’t we just roast them!?
+Because what every VC and Angel Investor really needs is yet another flashy dashboard to help them blindly trust every founder they meet. Who needs critical thinking when you have a "comprehensive" tool that doesn’t do work for you?   So why don’t we just roast the hell of them!?
 # Disclaimer:
 **This product documentation manual and all included code pieces are definitely not open for any form of review or optimization by contributors because who needs that anyway?**
 
