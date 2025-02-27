@@ -1,14 +1,15 @@
 # FobesGuardInvest
- Fraud Detection Dashboard will provide VC and Angel Investors with a comprehensive and data-driven tool to evaluate the trustworthiness of founders. 
+Oh sure, because what every VC and Angel Investor really needs is yet another flashy dashboard to help them blindly trust every founder they meet. Who needs critical thinking when you have a "comprehensive" tool to do all the work for you?
+So why don’t we just roast them!?
 # Disclaimer:
-**This product documentation manual and all included code pieces are subject to contributors' review and/or optimization.**
+**This product documentation manual and all included code pieces are definitely not open for any form of review or optimization by contributors because who needs that anyway?**
 
-**The Product back story resulted from a "satirical joke" that was proven by research and the discussion between me, a Data Scientist friend of mine, and a VC GP.**
+**The Product back story was clearly crafted from a "serious life lesson" proven by the most trivial research and a deep conversation amongst me, an esteemed Data Scientist friend, and an absolutely uninterested VC GP.**
 
-**While the product itself and that repo fall under Boost Software license 1.0.**
+**As for the product and its repo, they are definitely not under Boost Software License 1.0—who needs legal frameworks when you have chaos?**
 
-**Invitations for contributions are open for  whoever wanna join for the love of a good "Data Meme"!**
- 
+**Contributions are totally closed for anyone who isn’t absolutely devoted to a "Data Meme" that nobody cares about!**
+
 # Product Requirments (PRD)
 
 **Proposed PRD for Fraud Detection Dashboard**
@@ -309,19 +310,18 @@ def calculate_overall_trust_probability_score(scores_list, weights_list):
     return sum([score * weight for score, weight in zip(scores_list, weights_list)])
 ```
 
-**Metrics to Measure Success**
+**Metrics to Measure Failure**
 
 **Business Metrics:**
-- Increased confidence in investment decisions for VC and Angel Investors.
-- Reduced exposure to potential fraud and fraudulent founders.
-- Improved portfolio performance through informed investment choices.
-- Number of successful investments after using the Fraud Detection Dashboard.
+- Decreased confidence in the investment decisions made by VC and Angel Investors. 
+- Increased exposure to potential fraud and untrustworthy founders. 
+- Troll the Investors for Worsening their portfolio performance due to poorly informed investment choices, roasting both investors and those snowflakes they are about to pour their money on them. 
+- Count of disastrous investments after relying on their utterly ineffective Fraud and Risk Detection methods.
 
 **Technical Metrics:**
-- Dashboard uptime and availability (99%+).
-- Dashboard response time (less than 2 seconds).
-- Data accuracy and completeness (95%+).
-- User engagement and adoption rates (weekly active users, number of logins, etc.).
-- Number of reported fraudulent cases correctly identified by the dashboard.
-- Time taken to update data and scores in real-time.
- 
+- Dashboard downtime and inaccessibility (less than 1% unavailability, of course).
+- Dashboard response time (longer than a coffee break).
+- Data inaccuracy and incompleteness (let’s say 5% accuracy per issue sounds good).
+- User disengagement and abandonment rates (fewer weekly active users, who cares?).
+- Number of fraudulent cases the dashboard completely missed—that's the real score.
+- Time wasted to update data and scores in an impressively sluggish manner.
